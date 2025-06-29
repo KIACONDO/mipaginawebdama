@@ -4,20 +4,10 @@
 
   <!-- Página principal -->
   <url>
-    <loc>https://kiacondo.github.io/mipaginaweb-dama/</loc>
+    <loc>https://kiacondo.github.io/mipaginawebdama/</loc>
     <lastmod>2025-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Puedes agregar más páginas si existen, como por ejemplo: -->
-  <!-- 
-  <url>
-    <loc>https://kiacondo.github.io/mipaginaweb-dama/proyectos.html</loc>
-    <lastmod>2025-06-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  -->
 
 </urlset>
